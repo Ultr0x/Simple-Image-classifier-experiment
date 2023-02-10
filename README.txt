@@ -1,6 +1,6 @@
 Readme
 
-This is a project for the course "Coding Five: Approaches to Machine Intelligence" at the Universit of Arts of London.
+This is a project for the course "Coding Five: Approaches to Machine Intelligence" at the University of Arts, London.
 
 The project is a simple image classifier, which classifies images of bicycles,cars,deer and mountains.
 
